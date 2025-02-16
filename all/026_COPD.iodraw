@@ -20,7 +20,7 @@
           <mxGeometry x="540" y="496" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="btpSxcY9ruLO_cTLVNIr-3" value="DEG" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="215" y="220" width="60" height="40" as="geometry" />
+          <mxGeometry x="210" y="230" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="btpSxcY9ruLO_cTLVNIr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="btpSxcY9ruLO_cTLVNIr-4" target="btpSxcY9ruLO_cTLVNIr-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -168,6 +168,9 @@
         </mxCell>
         <mxCell id="btpSxcY9ruLO_cTLVNIr-55" value="实验验证&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="768.5" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PQin1wzKmKepI4skhqdZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PQin1wzKmKepI4skhqdZ-0" target="btpSxcY9ruLO_cTLVNIr-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PQin1wzKmKepI4skhqdZ-0" value="COPD" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="150" width="60" height="40" as="geometry" />
