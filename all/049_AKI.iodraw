@@ -176,6 +176,9 @@
         <mxCell id="PQin1wzKmKepI4skhqdZ-1" value="Control" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="275" y="150" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="g16oi7WQsPjNBigpb8bj-2" value="诺曼图&lt;br&gt;校准曲线&lt;br&gt;ROC/DCA曲线" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="335" y="780" width="145" height="46" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
