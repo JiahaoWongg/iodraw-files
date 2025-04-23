@@ -41,7 +41,7 @@
           <mxGeometry x="150" y="361" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="btpSxcY9ruLO_cTLVNIr-16" value="PPI network" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="530" y="361" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="361" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7KmEhlN-YoaeUTBJP1mB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="btpSxcY9ruLO_cTLVNIr-14" target="btpSxcY9ruLO_cTLVNIr-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
