@@ -186,7 +186,7 @@
           <mxGeometry x="380" y="110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U-UCpScYIe7jxHO_eh52-3" value="Autophagy score&lt;div&gt;High vs. Low&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="470" y="190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U-UCpScYIe7jxHO_eh52-4" value="DEG" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="270" width="60" height="40" as="geometry" />
