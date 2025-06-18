@@ -4,6 +4,9 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="ZtIUgJpHrdkChKF7Pmua-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="ZtIUgJpHrdkChKF7Pmua-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;div&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&amp;lt;br/&amp;gt;11.0pt;line-height:150%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;宋体;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&amp;lt;br/&amp;gt;ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;scRNAseq data&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&amp;lt;br/&amp;gt;11.0pt;line-height:150%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;宋体;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&amp;lt;br/&amp;gt;ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;GSE144136&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="230" y="30" width="120" height="40" as="geometry" />
         </mxCell>
@@ -19,7 +22,7 @@
           <mxGeometry x="240" y="350" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="btpSxcY9ruLO_cTLVNIr-4" value="Lactylation related genes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="410" y="150" width="120" height="40" as="geometry" />
+          <mxGeometry x="410" y="150" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="btpSxcY9ruLO_cTLVNIr-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="btpSxcY9ruLO_cTLVNIr-11" target="btpSxcY9ruLO_cTLVNIr-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -166,7 +169,7 @@
           <mxGeometry x="315" y="878.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZtIUgJpHrdkChKF7Pmua-3" value="质控、去批次、降维聚类、分群、注释" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="230" y="150" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
