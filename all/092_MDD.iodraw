@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1436" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3489" dy="1766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -134,7 +134,7 @@
         <mxCell id="btpSxcY9ruLO_cTLVNIr-40" value="&lt;h2 style=&quot;line-height: var(--jp-content-heading-line-height); font-weight: var(--jp-content-heading-font-weight); margin-top: calc(0.5 * var(--jp-content-heading-margin-top)); margin-bottom: calc(0.5 * var(--jp-content-heading-margin-bottom)); scroll-margin-top: calc(0.5 * var(--jp-content-heading-margin-top)); font-size: var(--jp-content-font-size4); color: rgba(0, 0, 0, 0.87); font-family: system-ui, -apple-system, blinkmacsystemfont, &amp;quot;Segoe UI&amp;quot;, helvetica, arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot; id=&quot;验证-GSE76925&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(0, 0, 0); font-family: Helvetica; text-align: center;&quot;&gt;表达量验证&lt;/span&gt;&lt;/h2&gt;&lt;div&gt;多组学验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="616" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="btpSxcY9ruLO_cTLVNIr-55" value="实验验证&amp;nbsp;&lt;div&gt;具体内容&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="btpSxcY9ruLO_cTLVNIr-55" value="实验验证" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="878.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZtIUgJpHrdkChKF7Pmua-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PQin1wzKmKepI4skhqdZ-0" target="btpSxcY9ruLO_cTLVNIr-3">
