@@ -216,8 +216,11 @@
         <mxCell id="ZtIUgJpHrdkChKF7Pmua-12" value="WGCNA&lt;div&gt;Module genes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="602.5" y="300" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ZtIUgJpHrdkChKF7Pmua-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZtIUgJpHrdkChKF7Pmua-29" target="btpSxcY9ruLO_cTLVNIr-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZtIUgJpHrdkChKF7Pmua-29" value="Train cohort&lt;div&gt;GSE98793&lt;/div&gt;&lt;div&gt;GSE76826&lt;/div&gt;&lt;div&gt;GSE201332&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="60" width="125" height="70" as="geometry" />
+          <mxGeometry x="537.5" y="601" width="125" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
