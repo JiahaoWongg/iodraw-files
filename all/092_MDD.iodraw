@@ -19,7 +19,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="btpSxcY9ruLO_cTLVNIr-3" value="DEG" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="240" y="350" width="60" height="40" as="geometry" />
+          <mxGeometry x="190" y="420" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="btpSxcY9ruLO_cTLVNIr-4" value="Lactylation related genes（&lt;span style=&quot;font-size: 10.5pt; line-height: 21px; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;332 LRGs）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="410" y="110" width="140" height="50" as="geometry" />
@@ -146,18 +146,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PQin1wzKmKepI4skhqdZ-0" value="COPD" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="180" y="270" width="60" height="40" as="geometry" />
+          <mxGeometry x="130" y="340" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PQin1wzKmKepI4skhqdZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PQin1wzKmKepI4skhqdZ-1" target="btpSxcY9ruLO_cTLVNIr-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="335" y="330" />
-              <mxPoint x="270" y="330" />
+              <mxPoint x="285" y="400" />
+              <mxPoint x="220" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PQin1wzKmKepI4skhqdZ-1" value="Control" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="305" y="270" width="60" height="40" as="geometry" />
+          <mxGeometry x="255" y="340" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CUuMqTpNrptfy9PvWlUv-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CUuMqTpNrptfy9PvWlUv-1" target="btpSxcY9ruLO_cTLVNIr-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -171,7 +171,7 @@
         <mxCell id="ZtIUgJpHrdkChKF7Pmua-3" value="质控、去批次、降维聚类、分群、注释" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="110" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZtIUgJpHrdkChKF7Pmua-6" value="质控、去批次、降维聚类、分群、注释" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZtIUgJpHrdkChKF7Pmua-6" value="评分最高细胞类型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="190" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
