@@ -146,14 +146,17 @@
         <mxCell id="CUuMqTpNrptfy9PvWlUv-8" value="&lt;div&gt;分子对接&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="335" y="768.5" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="T54yUkbbNKA9ST97zr3x-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T54yUkbbNKA9ST97zr3x-2" target="T54yUkbbNKA9ST97zr3x-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T54yUkbbNKA9ST97zr3x-2" value="bulk 表达谱&lt;div&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;line-height:150%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;宋体;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;GSE6477&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-indent: -22pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 10.5pt; background-color: initial;&quot;&gt;GSE47552&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="105" width="140" height="70" as="geometry" />
+          <mxGeometry x="590" y="20" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T54yUkbbNKA9ST97zr3x-5" value="差异表达基因" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="220" width="120" height="40" as="geometry" />
+          <mxGeometry x="545" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T54yUkbbNKA9ST97zr3x-6" value="WGCNA&lt;div&gt;核心模块基因&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="290" width="120" height="40" as="geometry" />
+          <mxGeometry x="690" y="150" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
