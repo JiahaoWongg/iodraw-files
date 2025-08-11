@@ -22,7 +22,7 @@
         <mxCell id="btpSxcY9ruLO_cTLVNIr-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="btpSxcY9ruLO_cTLVNIr-11" target="btpSxcY9ruLO_cTLVNIr-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="btpSxcY9ruLO_cTLVNIr-11" value="candidate genes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="btpSxcY9ruLO_cTLVNIr-11" value="候选基因" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="361" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="btpSxcY9ruLO_cTLVNIr-18" value="GO/KEGG&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -130,6 +130,14 @@
         </mxCell>
         <mxCell id="btpSxcY9ruLO_cTLVNIr-55" value="实验验证&amp;nbsp;&lt;div&gt;具体内容&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="768.5" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T54yUkbbNKA9ST97zr3x-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PQin1wzKmKepI4skhqdZ-1" target="btpSxcY9ruLO_cTLVNIr-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="300" />
+              <mxPoint x="390" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PQin1wzKmKepI4skhqdZ-1" value="中性粒细胞&lt;div&gt;MM vs 对照&lt;/div&gt;&lt;div&gt;差异基因&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="190" width="140" height="60" as="geometry" />
