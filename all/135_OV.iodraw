@@ -154,7 +154,7 @@
         <mxCell id="Vqk2AolHqsjLFzdElOil-0" value="降维、聚类&lt;div&gt;分群、注释&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Vqk2AolHqsjLFzdElOil-1" value="成纤维细胞再分群" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Vqk2AolHqsjLFzdElOil-1" value="最富集的细胞类型&lt;div&gt;再分群&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vqk2AolHqsjLFzdElOil-5" value="计算每个细胞&lt;div&gt;基因集评分&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
