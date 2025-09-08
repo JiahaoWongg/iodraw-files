@@ -165,7 +165,7 @@
         <mxCell id="CUuMqTpNrptfy9PvWlUv-8" value="&lt;div&gt;分子对接&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="335" y="768.5" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Vqk2AolHqsjLFzdElOil-0" value="单细胞&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;PingFang SC&amp;quot;, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial, sans-serif; font-size: 15px; letter-spacing: 0.5px; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;GES154600&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Vqk2AolHqsjLFzdElOil-0" value="降维、聚类&lt;div&gt;分群、注释&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="140" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
