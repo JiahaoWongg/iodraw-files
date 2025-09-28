@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1878" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -24,7 +24,7 @@
           <mxGeometry x="240" y="10" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="btpSxcY9ruLO_cTLVNIr-14" value="评估风险评分与临床特征的关系&lt;div&gt;（Status Age Gender Stage）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="555" width="205" height="60" as="geometry" />
+          <mxGeometry x="320" y="555" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UvH991ddAmxxjoVrMst7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UvH991ddAmxxjoVrMst7-0" target="UvH991ddAmxxjoVrMst7-1">
           <mxGeometry relative="1" as="geometry" />
@@ -109,6 +109,9 @@
         </mxCell>
         <mxCell id="UvH991ddAmxxjoVrMst7-35" value="&lt;h3 style=&quot;box-sizing: border-box; break-after: avoid-page; break-inside: avoid; orphans: 4; margin-top: 1rem; margin-bottom: 1rem; position: relative; line-height: 1.43; cursor: text;&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;font face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; white-space-collapse: preserve;&quot;&gt;预后模型构建&lt;br&gt;TCGA-LIHC/ICGC LIRI-JP/GSE14520&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="440" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UvH991ddAmxxjoVrMst7-40" value="评估风险评分与临床特征的关系&lt;div&gt;（Status Age Gender Stage）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="680" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
