@@ -195,7 +195,7 @@
           <mxGeometry x="580" y="360" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UvH991ddAmxxjoVrMst7-25" value="细胞通讯&lt;div&gt;&lt;div&gt;关键细胞亚群vs其他免疫/基质细胞&lt;/div&gt;&lt;div&gt;关键信号通路以及基因的表达情况&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580" y="440" width="230" height="60" as="geometry" />
+          <mxGeometry x="650" y="440" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UvH991ddAmxxjoVrMst7-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UvH991ddAmxxjoVrMst7-28" target="UvH991ddAmxxjoVrMst7-29">
           <mxGeometry relative="1" as="geometry" />
@@ -207,7 +207,7 @@
           <mxGeometry x="320" y="360" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UvH991ddAmxxjoVrMst7-35" value="&lt;h3 style=&quot;box-sizing: border-box; break-after: avoid-page; break-inside: avoid; orphans: 4; margin-top: 1rem; margin-bottom: 1rem; position: relative; line-height: 1.43; cursor: text;&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;font face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; white-space-collapse: preserve;&quot;&gt;预后模型构建&lt;br/&gt;TCGA-LIHC/ICGC LIRI-JP/GSE14520&lt;br/&gt;构建预后模型，并评估模型性能&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580" y="520" width="230" height="60" as="geometry" />
+          <mxGeometry x="320" y="440" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
