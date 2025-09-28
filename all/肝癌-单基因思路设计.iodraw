@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1878" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1285" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -27,7 +27,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="btpSxcY9ruLO_cTLVNIr-11" value="&lt;h3 style=&quot;box-sizing: border-box; break-after: avoid-page; break-inside: avoid; orphans: 4; margin-top: 1rem; margin-bottom: 1rem; position: relative; line-height: 1.43; cursor: text; white-space-collapse: preserve; color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start;&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: normal;&quot; class=&quot;md-plain&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;预后模型构建&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;div&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: normal;&quot; class=&quot;md-plain&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; orphans: 4; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;TCGA-LIHC、ICGC LIRI-JP、GSE14520中构建预后模型，并评估模型性能&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="330" y="490" width="120" height="40" as="geometry" />
+          <mxGeometry x="330" y="450" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CUuMqTpNrptfy9PvWlUv-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="btpSxcY9ruLO_cTLVNIr-14" target="btpSxcY9ruLO_cTLVNIr-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
