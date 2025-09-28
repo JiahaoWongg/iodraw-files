@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="btpSxcY9ruLO_cTLVNIr-14" value="评估风险评分与临床特征的关系&lt;div&gt;（Status Age Gender Stage）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="555" width="230" height="60" as="geometry" />
+          <mxGeometry x="345" y="685" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UvH991ddAmxxjoVrMst7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UvH991ddAmxxjoVrMst7-0" target="UvH991ddAmxxjoVrMst7-1">
           <mxGeometry relative="1" as="geometry" />
@@ -79,8 +79,10 @@
         <mxCell id="UvH991ddAmxxjoVrMst7-24" value="&lt;span style=&quot;white-space-collapse: preserve; color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; orphans: 4; text-align: left; background-color: rgb(255, 255, 255); font-size: 13px;&quot;&gt;拟时序分析&lt;/span&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; orphans: 4; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;预测亚群分化顺序&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; orphans: 4; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;评估&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;CDC27&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; orphans: 4; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;的动态变化&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="360" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UvH991ddAmxxjoVrMst7-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UvH991ddAmxxjoVrMst7-25" target="UvH991ddAmxxjoVrMst7-35">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UvH991ddAmxxjoVrMst7-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="UvH991ddAmxxjoVrMst7-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="600.0769230769231" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UvH991ddAmxxjoVrMst7-25" value="细胞通讯&lt;div&gt;&lt;div&gt;关键细胞亚群vs其他免疫/基质细胞&lt;/div&gt;&lt;div&gt;关键信号通路以及基因的表达情况&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="440" width="230" height="60" as="geometry" />
@@ -101,13 +103,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UvH991ddAmxxjoVrMst7-35" value="&lt;h3 style=&quot;box-sizing: border-box; break-after: avoid-page; break-inside: avoid; orphans: 4; margin-top: 1rem; margin-bottom: 1rem; position: relative; line-height: 1.43; cursor: text;&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;font face=&quot;Open Sans, Clear Sans, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; white-space-collapse: preserve;&quot;&gt;预后模型构建&lt;br&gt;TCGA-LIHC/ICGC LIRI-JP/GSE14520&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="440" width="230" height="60" as="geometry" />
+          <mxGeometry x="345" y="570" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UvH991ddAmxxjoVrMst7-41" value="&lt;div&gt;免疫治疗相关分析&lt;/div&gt;&lt;div&gt;scRANseq GSE151530&lt;/div&gt;&lt;div&gt;CDC27高低组的免疫治疗差异和细胞丰度差异&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="305" y="670" width="260" height="60" as="geometry" />
+          <mxGeometry x="330" y="800" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UvH991ddAmxxjoVrMst7-43" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;空间转录组分析&amp;nbsp;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; orphans: 4; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;HRA000437&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; orphans: 4; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;关键&lt;/span&gt;CDC27&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; orphans: 4; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;、信号通路基因在空间上的表达分布和共定位&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Clear Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; orphans: 4; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="305" y="800" width="260" height="60" as="geometry" />
+          <mxGeometry x="330" y="930" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
